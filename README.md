@@ -5,15 +5,6 @@ Designed to highlight Nike’s products with a bold and minimal aesthetic.
 
 ---
 
-## 🚀 Demo
-
-🔗 **Live Preview:** [View Demo](https://your-demo-link.com)
-📸 **Screenshot:**
-
-![Nike Landing Page Preview](./preview.png)
-
----
-
 ## ✨ Features
 
 * ⚡ Fully responsive for all devices (mobile, tablet, desktop)
