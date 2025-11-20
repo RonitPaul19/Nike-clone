@@ -32,11 +32,3 @@ Designed to highlight Nike’s products with a bold and minimal aesthetic.
 * Practiced smooth scroll & entrance animations
 * Improved component structuring and reusability
 * Focused on brand-inspired color balance & typography
-
----
-
-## 🙌 Acknowledgments
-
-Inspired by [adrian hajdin]()
-UI reference from Dribbble & Behance concepts
-Designed and developed by **[Ronit Paul](https://github.com/RonitPaul19)** 💻
