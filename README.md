@@ -1,21 +1,21 @@
-# 🏀 Nike Landing Page
+#  Nike Landing Page
 
 A modern, responsive **Nike Landing Page** built with clean UI design, smooth animations, and a premium shopping experience in mind.
 Designed to highlight Nike’s products with a bold and minimal aesthetic.
 
 ---
 
-## ✨ Features
+##  Features
 
-* ⚡ Fully responsive for all devices (mobile, tablet, desktop)
-* 🎨 Clean and minimal UI inspired by Nike’s official branding
-* 🧩 Smooth scroll animations and hover effects
-* 🛒 Product showcase with CTA sections
-* 💡 Reusable and well-structured components
+*  Fully responsive for all devices (mobile, tablet, desktop)
+*  Clean and minimal UI inspired by Nike’s official branding
+*  Smooth scroll animations and hover effects
+*  Product showcase with CTA sections
+*  Reusable and well-structured components
 
 ---
 
-## 🧱 Built With
+##  Built With
 
 | Technology                            | Purpose                      |
 | ------------------------------------- | ---------------------------- |
@@ -26,7 +26,7 @@ Designed to highlight Nike’s products with a bold and minimal aesthetic.
 
 ---
 
-## 🧠 Learnings
+##  Learnings
 
 * Mastered advanced CSS layouts (Grid & Flexbox)
 * Practiced smooth scroll & entrance animations
